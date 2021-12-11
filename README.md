@@ -1,2 +1,3 @@
 # About this...
-The purpose of creating this profile is to help me succeed and continue to grow.
+The purpose of creating this profile is to help me succeed and continue to grow in Java among other things
+
